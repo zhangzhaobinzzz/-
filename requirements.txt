@@ -40,7 +40,7 @@ partd==1.0.0
 pexpect==4.7.0
 pickleshare==0.7.5
 prompt-toolkit==2.0.10
-psutil==5.6.5
+psutil==5.6.6
 ptyprocess==0.6.0
 Pygments==2.4.2
 pyparsing==2.4.5
@@ -119,7 +119,7 @@ pexpect==4.7.0
 pickleshare==0.7.5
 prompt-toolkit==2.0.10
 protobuf==3.11.0
-psutil==5.6.5
+psutil==5.6.6
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
